@@ -1,0 +1,14 @@
+<?php
+
+namespace App\Controllers;
+
+use Lieurcode\Core\Controller;
+
+class HomeController extends Controller
+{
+    public function index()
+    {
+      echo 'AAWAWEAWE';Y
+ // return view('home', ['title' => 'Beranda']);
+    }
+}

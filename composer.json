@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Lieurcode\\Core\\": "system/Core/",
+      "Lieurcode\\System\\Core\\": "system/Core/",
+      "Lieurcode\\Controllers\\": "app/Controllers/"
+    }
+  }
+}
