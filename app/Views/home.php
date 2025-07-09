@@ -28,7 +28,7 @@
     </style>
 </head>
 <body>
-    <h1>Selamat datang di LieurCode!</h1>
+    <h1>Selamat datang di Framework LieurCode!</h1>
     <p>Ini adalah halaman home.</p>
 </body>
 </html>

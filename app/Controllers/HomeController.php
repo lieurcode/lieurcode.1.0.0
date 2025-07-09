@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controllers;
+namespace Lieurcode\Controllers;
 
 use Lieurcode\Core\Controller;
 
@@ -8,9 +8,7 @@ class HomeController extends Controller
 {
     public function index()
     {
-
-        return view('home', ['title' => 'Beranda']);
-     {
- 	}
-
+        $this->view('home', ['title' => 'Selamat Datang di LieurCode!']);
+    }
 }
+
